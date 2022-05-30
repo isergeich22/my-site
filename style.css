@@ -186,10 +186,10 @@ body {
   text-transform: uppercase;
 }
 
-.intro .about h3,
+/* .intro .about h3,
 .intro .about p{
   padding-left: 300px;
-}
+} */
 
 .intro p {
   margin: 0;
